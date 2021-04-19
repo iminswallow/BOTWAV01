@@ -1,6 +1,6 @@
 {
-  "name": "Chika",
-  "version": "1.0.0",
+  "name": "1M1N",
+  "version": "0.0.1",
   "description": "Chika for whatsapp online with termux",
   "main": "index.js",
   "directories": {
@@ -29,7 +29,7 @@
   "homepage": "https://github.com/alonecans/readme.md",
   "license": "ISC",
   "dependencies": {
-    "@adiwajshing/baileys": "^3.3.0",
+    "@adiwajshing/1M1N": "^3.3.0",
     "async": "^2.4.1",
     "axios": "^0.21.0",
     "cfonts": "^2.9.0",
